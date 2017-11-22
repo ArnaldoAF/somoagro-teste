@@ -306,3 +306,9 @@ footer {
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+#sobre {
+  background: #fdcc52;
+  background: -webkit-linear-gradient(#fdcc52, #fdc539);
+  background: linear-gradient(#fdcc52, #fdc539); }
+}
