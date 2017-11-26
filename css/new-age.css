@@ -312,3 +312,21 @@ footer {
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
   background: linear-gradient(#fdcc52, #fdc539); }
 }
+
+section.features  {
+  background-image: url("../img/bg-cta.jpg");
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: blue;
+
+}
+.funcoes img{
+  max-height: 500px;
+}
+
+.funcoes .row{
+  padding: 50px;
+}
